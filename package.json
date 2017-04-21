@@ -1,0 +1,12 @@
+{
+  "name": "takeaway",
+  "version": "",
+  "description": "",
+  "main": "index.js",
+  "firebase": "take-away-6db34",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tianxia Dong",
+  "license": "ISC"
+}

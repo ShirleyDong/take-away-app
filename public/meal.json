@@ -1,0 +1,108 @@
+[{
+	"meal" : "Monday",
+	"content": "1/4 Pounder with Cheese and Chips",
+	"id": "Mo",
+	"selected" : 0,
+	"loc":"7.00",
+	"prices":[{
+		"size":"",
+		"price":"5.00"
+	}],
+	"pric":"5.00",
+	"sav":"2.00"
+
+
+
+},
+
+{
+	"meal" : "Tuesday",
+	"content": "Chicken Fillet Burger and Chips",
+	"id": "Tu",
+	"selected" : 0,
+	"loc":"6.50",
+	"prices":[{
+		"size":"",
+		"price":"5.00"
+	}],
+		"pric":"5.00",
+	"sav":"1.50"
+
+},
+
+{
+	"meal" : "Wednesday",
+	"content": "Snack Box :- 2 Pieces of Chicken and Chips",
+	"id": "We",
+	"selected" : 0,
+	"loc":"6.00",
+	"prices":[{
+		"size":"",
+		"price":"5.00"
+	}],
+		"pric":"5.00",
+	"sav":"1.00"
+
+},
+
+{
+	"meal" : "Thursday ",
+	"content": "Double Cheese Burger and Chips",
+	"id": "Th",
+	"selected" : 0,
+	"loc":"6.00",
+	"prices":[{
+		"size":"",
+		"price":"5.00"
+	}],
+		"pric":"5.00",
+	"sav":"1.00"
+
+},
+
+{
+	"meal" : "Friday",
+	"content": "Fish Box :- Plaice and Chips",
+	"id": "Fr",
+	"selected" : 0,
+	"loc":"7.00",
+	"prices":[{
+		"size":"",
+		"price":"6.00"
+	}],
+		"pric":"6.00",
+	"sav":"1.00"
+
+},
+
+{
+	"meal" : "Saturday",
+	"content": "6 Nuggets, 2 Plain Sausages and Chips ",
+	"id": "Sa",
+	"selected" : 0,
+	"loc":"6.50",
+	"prices":[{
+		"size":"",
+		"price":"5.00"
+	}],
+		"pric":"5.00",
+	"sav":"1.50"
+
+},
+
+{
+	"meal" : "Every Day Meal ",
+	"id": "MSp",
+	"content": "2 Chips / 2 Plain Burgers / 2 Plain Sausages / Six Nuggets",
+	"selected" : 0,
+	"loc":"14.00 ",
+	"prices":[{
+		"size":"",
+		"price":"10.00"
+	}],
+		"pric":"10.00",
+	"sav":"4.00"
+
+}
+
+]

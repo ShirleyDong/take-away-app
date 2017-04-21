@@ -1,0 +1,89 @@
+[{
+	"item" : "Chips ",
+	"id": "Br",
+	"selected" : 0,
+	"img" :"https://firebasestorage.googleapis.com/v0/b/ecare-a5805.appspot.com/o/doc.png?alt=media&token=f7a1a739-1e62-4a18-abdd-13cee43e7129",
+	"prices":[{
+		"size":"small",
+		"price":"2.50"
+	},{
+		"size":"large",
+		"price":"3.00"
+	},{
+		"size":"Family Box",
+		"price":"7.00"
+	}
+]
+
+},
+
+{
+	"item" : "Sausages",
+	"id": "Sp",
+	"selected" : 0,
+	"img" :"https://firebasestorage.googleapis.com/v0/b/ecare-a5805.appspot.com/o/doc.png?alt=media&token=f7a1a739-1e62-4a18-abdd-13cee43e7129",
+	"prices":[{
+		"size":"Plain",
+		"price":"0.50"
+	},{
+		"size":"Large",
+		"price":"1.00"
+	},{
+		"size":"Battered",
+		"price":"1.50 "
+	}
+]
+
+},
+
+{
+	"item" : "Burgers",
+	"id": "Bu",
+	"selected" : 0,
+	"img" :"https://firebasestorage.googleapis.com/v0/b/ecare-a5805.appspot.com/o/doc.png?alt=media&token=f7a1a739-1e62-4a18-abdd-13cee43e7129",
+	"prices":[{
+		"size":"Plain Burger",
+		"price":"2.50"
+	},{
+		"size":"Cheese Burger ",
+		"price":"3.00"
+	},{
+		"size":"Double Cheese Burger ",
+		"price":"3.50 "
+	},{
+		"size":"1/4 Pounder ",
+		"price":"4.00"
+	},{
+		"size":"1/4 Pounder with Cheese",
+		"price":"4.50"
+	}]
+
+},
+
+{
+	"item" : "Chicken",
+	"id": "Ch",
+	"selected" : 0,
+	"img" :"https://firebasestorage.googleapis.com/v0/b/ecare-a5805.appspot.com/o/doc.png?alt=media&token=f7a1a739-1e62-4a18-abdd-13cee43e7129",
+	"prices":[{
+		"size":"Chicken Pieces ",
+		"price":"2.50"
+	},{
+		"size":"Six Nuggets ",
+		"price":"3.00"
+	},{
+		"size":"Eight Nuggets  ",
+		"price":"3.50 "
+	},{
+		"size":"Ten Nuggets",
+		"price":"4.00"
+	},{
+		"size":"Chicken Fillet Burger ",
+		"price":"4.50"
+	},{
+		"size":"Snack Box :- 2 Pieces of Chicken ",
+		"price":"6.00"
+	}]
+
+}
+]
